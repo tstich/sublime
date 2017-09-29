@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "10.28.128.7:8080",
+	"https_proxy": "10.28.128.7:8080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"CMake",
+		"CUDA C++",
+		"GitGutter",
+		"GLSL Validator",
+		"Kivy Language",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
+		"TrailingSpaces"
+	],
+	"proxy_password": "nimRoy35244",
+	"proxy_username": "zotstich"
+}
