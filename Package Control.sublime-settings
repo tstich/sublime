@@ -1,7 +1,5 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "10.28.128.7:8080",
-	"https_proxy": "10.28.128.7:8080",
 	"in_process_packages":
 	[
 	],
@@ -17,7 +15,5 @@
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"TrailingSpaces"
-	],
-	"proxy_password": "nimRoy35244",
-	"proxy_username": "zotstich"
+	]
 }
