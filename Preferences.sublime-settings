@@ -4,6 +4,9 @@
 	[
 		"Vintage"
 	],
-	"rulers": [80],
+	"rulers":
+	[
+		80
+	],
 	"wrap_width": 80
 }
